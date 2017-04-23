@@ -1,1 +1,1 @@
-## My personal site/blog
+### My personal website and blog - [https://chinni.me](https://chinni.me)
