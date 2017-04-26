@@ -20,7 +20,7 @@ div .svg-container {
 
 	stroke-dasharray: 5000;
 	stroke-dashoffset: 5000;
-	animation: write 5s linear forwards;
+	animation: write 5s linear infinite;
 }
 
 @keyframes write {
